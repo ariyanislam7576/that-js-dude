@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h2{
+    color: gray;
+    margin: 5px 20px;
+}
+.nav button{
+    background-color: green;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    margin: 20px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.banner{
+    background-color: lightgrey;
+    float: left;
+}
+.banner h1{
+    font-size: 70px;
+    font-weight: 300;
+    text-align: left;
+    margin-left:20px ;
+}
+.banner p{
+    font-weight: 300;
+    font-size: 30px;
+    text-align: left;
+    margin-left:20px ;
+
+}
+.banner button{
+    background-color: skyblue;
+    padding: 10px 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+    margin-left:20px ;
+    margin-bottom: 10px;
+
+}

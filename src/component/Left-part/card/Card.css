@@ -1,0 +1,19 @@
+.left-card{
+    margin: 10px;
+}
+.left-card h1,p{
+    font-weight: 400;
+    text-align: left;
+}
+.left-card h1{
+    color: skyblue;
+}
+.left-card h1:hover{
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+button{
+    float: left;
+    padding: 10px 25px;
+    cursor: pointer;
+}
